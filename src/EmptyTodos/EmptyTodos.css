@@ -1,0 +1,10 @@
+.EmptyContainer {
+
+    display: flex;
+    padding: 40px 50px;
+    text-align: center;
+    max-width: 300px;
+    justify-content: center;
+    margin-left: 60px;
+    font-size: 30px;
+}
