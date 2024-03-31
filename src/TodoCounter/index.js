@@ -22,7 +22,7 @@ function TodoCounter () {
         <h1 className="TodoCounter">
             {
                 totalTodos === 0
-                ? 'no hay tareas disponibles' 
+                ? 'No hay tareas disponibles' 
                 : totalTodos === completedTodos
                     ? 'Muy bien, completaste todas tus tareas'
                     : (

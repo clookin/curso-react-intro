@@ -3,7 +3,6 @@ import { TodoSearch } from '../TodoSearch';
 import { TodoList } from '../TodoList';
 import { CreateTodoButton } from '../CreateTodoButton';
 import { TodoItem } from '../TodoItem';
-import { useLocalStorage } from '../TodoContex/useLocalStorage';
 import { TodosLoading } from '../TodosLoading';
 import { TodosError } from '../TodosError';
 import { EmptyTodos } from '../EmptyTodos';
